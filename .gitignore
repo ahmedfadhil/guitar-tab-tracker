@@ -1,3 +1,4 @@
 guitar-tab-client/node_modules/
 guitar-tab-server/node_modules/
 package-lock.json
+.vscode
